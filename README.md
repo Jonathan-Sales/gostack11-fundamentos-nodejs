@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   Desafio 05: Primeiro projeto Node.js
-</h3>
+</h2>
 
 ## 🚀 Sobre o desafio
 
